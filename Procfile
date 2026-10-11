@@ -1,1 +1,1 @@
-echo "web: uvicorn server:app --host 0.0.0.0 --port \$PORT" > Procfile
+web: uvicorn server:app --host 0.0.0.0 --port 
