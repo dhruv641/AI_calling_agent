@@ -37,7 +37,7 @@ Response:
 ## Setup
 ```bash
 pip install -r requirements.txt
-export GROQ_API_KEY=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
+export GR0Q_API_KEY=your_api_key_here
 python server.py
 ```
 
